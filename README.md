@@ -9,4 +9,4 @@
 
 # Lightweight and runs offline
 
-# Easy to customize and extend
+# Easy to extend 
